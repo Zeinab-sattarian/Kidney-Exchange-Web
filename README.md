@@ -44,6 +44,8 @@ Built entirely in **HTML, CSS, and JavaScript**, this tool lets you add donor–
   - Target length
 - Load **sample data** for quick testing.
 
+![Max Screenshot](images/manage-max.png)
+
 ---
 
 ## 🖥 How to Run
